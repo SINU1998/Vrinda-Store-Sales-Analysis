@@ -17,6 +17,8 @@ This repository contains the sales analysis report for Vrinda Store. The report 
 Dive into the report to uncover comprehensive insights into Vrinda Store's performance in the online retail landscape. Whether you're a data enthusiast or a stakeholder in Vrinda Store, this analysis provides valuable information for understanding and enhancing sales strategies.
 
 2. **Visualizations**
+
+
 ![Screenshot 2023-11-17 200728](https://github.com/SINU1998/Vrinda-Store-Sales-Analysis/assets/141640546/8840adf2-e929-4a66-9a31-f7841a096623)
 
 ![Screenshot 2023-11-17 200747](https://github.com/SINU1998/Vrinda-Store-Sales-Analysis/assets/141640546/e80cd4e2-f37f-46d1-87ac-645e819478a9)
