@@ -16,11 +16,16 @@ This repository contains the sales analysis report for Vrinda Store. The report 
 
 Dive into the report to uncover comprehensive insights into Vrinda Store's performance in the online retail landscape. Whether you're a data enthusiast or a stakeholder in Vrinda Store, this analysis provides valuable information for understanding and enhancing sales strategies.
 
-2. **Analysis Methodology**
-Conducted a foundational Exploratory Data Analysis (EDA) on Vrinda Store's 2022 sales data, exploring trends and patterns. Utilized pivot analysis to extract actionable insights, such as key performance indicators and channel-specific metrics. This preliminary analysis lays the groundwork for in-depth understanding and strategic decision-making.
+2. **Visualizations**
+![Screenshot 2023-11-17 200728](https://github.com/SINU1998/Vrinda-Store-Sales-Analysis/assets/141640546/8840adf2-e929-4a66-9a31-f7841a096623)
+
+![Screenshot 2023-11-17 200747](https://github.com/SINU1998/Vrinda-Store-Sales-Analysis/assets/141640546/e80cd4e2-f37f-46d1-87ac-645e819478a9)
+
+3. **Analysis Methodology**
+Conducted a foundational Exploratory Data Analysis (EDA) on Vrinda Store's 2022 sales data, exploring trends and patterns. Utilized pivot analysis to extract actionable insights, such as key performance indicators and channel-specific metrics. This preliminary analysis lays the
+groundwork for in-depth understanding and strategic decision-making.
+
 4. **Key Metrics**
-  
-Key Metrics
 Category vs Total Sales:
 Metric: Total Sales by Category
 Description: Provides an overview of revenue generated from each product category, aiding in the identification of high-performing segments and allocation of resources for strategic product management.
@@ -42,19 +47,14 @@ Description: Summarizes the total sales for each month, offering insights into s
 High-Performing Products:
 Observation: Across all product categories, there is a consistent trend of certain items consistently outperforming others.i.e sell items in sets to get maximum outreach.
 
-Target Customer Profile:
+Target Customer profile:
 Observation: Sales data indicates a significant preference among females aged 18-33 for various product categories.
 
-Regional Focus - Maharashtra and Karnataka:
+Regional Focus: Maharashtra and Karnataka:
 Observation: Maharashtra and Karnataka consistently emerge as the top-performing states in terms of total sales.
 
 Strategic Recommendations:
 Recommendation: Develop marketing campaigns showcasing popular products, specifically targeting females aged 18-33 in Maharashtra and Karnataka.
-
-6. **Visualizations**
-![Screenshot 2023-11-17 200728](https://github.com/SINU1998/Vrinda-Store-Sales-Analysis/assets/141640546/8840adf2-e929-4a66-9a31-f7841a096623)
-
-![Screenshot 2023-11-17 200747](https://github.com/SINU1998/Vrinda-Store-Sales-Analysis/assets/141640546/e80cd4e2-f37f-46d1-87ac-645e819478a9)
 
 
 
