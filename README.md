@@ -18,12 +18,8 @@ This repository contains the sales analysis report for Vrinda Store. The report 
 
 Dive into the report to uncover comprehensive insights into Vrinda Store's performance in the online retail landscape. Whether you're a data enthusiast or a stakeholder in Vrinda Store, this analysis provides valuable information for understanding and enhancing sales strategies.
 
-2. **Data Sources**
-   - Description of the data sources used for the analysis. This may include details on the format, frequency of updates, and any preprocessing steps.
-
-3. **Analysis Methodology**
-   - Explanation of the methods and techniques used for the analysis. This section should provide clarity on how the data was processed and insights were derived.
-
+2. **Analysis Methodology**
+Conducted a foundational Exploratory Data Analysis (EDA) on Vrinda Store's 2022 sales data, exploring trends and patterns. Utilized pivot analysis to extract actionable insights, such as key performance indicators and channel-specific metrics. This preliminary analysis lays the groundwork for in-depth understanding and strategic decision-making.
 4. **Key Metrics**
    - Presentation of the key performance indicators (KPIs) used to measure sales success. This may include metrics such as revenue, units sold, customer acquisition cost, etc.
 
