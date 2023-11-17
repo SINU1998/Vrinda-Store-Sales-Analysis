@@ -1,4 +1,4 @@
-# Vrind# Vrinda Store Sales Analysis Report
+# Vrinda Store Sales Analysis Report
 
 ## Overview
 
