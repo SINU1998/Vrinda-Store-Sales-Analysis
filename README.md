@@ -60,10 +60,6 @@ Strategic Recommendations:
 Recommendation: Develop marketing campaigns showcasing popular products, specifically targeting females aged 18-33 in Maharashtra and Karnataka.
 
 
-
-8. **Recommendations**
-   - Actionable recommendations based on the insights gained. This section should provide guidance for improving sales performance and addressing any identified challenges.
-
 ## How to Use This Repository
 
 1. Clone the Repository
